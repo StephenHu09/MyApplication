@@ -1,0 +1,1 @@
+include ':app', ':allwinner_gpio'
